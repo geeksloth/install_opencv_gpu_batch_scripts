@@ -4,6 +4,9 @@ An easier way to install OpenCV-GPU on Windows by using the Batch scripts and so
 This repo's readme is not complete yet. BTW, the more explained methods are described by Jordan Benge's post:
 https://jordanbenge.medium.com/anaconda3-opencv-with-cuda-gpu-support-for-windows-10-e038569e228
 
+This is another more explanation related to this guideline:
+https://medium.com/analytics-vidhya/build-opencv-from-source-with-cuda-for-gpu-access-on-windows-5cd0ce2b9b37
+
 ## Usage and Testing
 ```code
 set PATH="C:\\OpenCV\\opencv-4.6.0\\build\\install\\x64\\vc17\\bin";%PATH%
